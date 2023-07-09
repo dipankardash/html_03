@@ -1,4 +1,4 @@
-# practice_03
+# practice_3
 
 live preview
 https://dipankardash.github.io/practice_03/
